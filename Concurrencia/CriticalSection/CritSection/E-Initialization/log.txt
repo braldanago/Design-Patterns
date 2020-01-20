@@ -1,0 +1,5 @@
+
+Foo number 2 logs a message
+Foo number 3 logs a message
+Foo number 0 logs a message
+Foo number 1 logs a message

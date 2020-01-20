@@ -1,0 +1,17 @@
+
+F
+oFoo noum bneurm b2e rl o3g sl oag sm eas smaegsesage
+Foo number 1 logs a message
+Foo number 0 logs a message
+F
+oFoo on unmubmebre r3  0l olgosg sa  am emsessasgaege
+Foo number 2 logs a message
+Foo number 1 logs a message
+F
+oFoo on unmubmebre r1  2l olgosg sa  am emsessasgaege
+Foo number 0 logs a message
+Foo number 3 logs a message
+
+
+FFFoooooo   nnnuuummmbbbeeerrr   301   lllooogggsss   aaa   mmmeeessssssaaagggeee
+Foo number 2 logs a message
