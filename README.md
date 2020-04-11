@@ -13,32 +13,38 @@ This includes class, sequence and use case diagrams.
    - Shallow copy
 
 **Estructurales**
-	-Fachada
-	-Adapter
-	-Chain of responsability (cadena de responsabilidad)
-	-Decorator
-	-Proxy
-	-Bridge (puente)
+ - Fachada
+ - Adapter
+   - De clase
+   - De objeto
+ - Chain of responsability (cadena de responsabilidad)
+ - Decorator
+ - Proxy
+   - Virtual proxy
+   - Counting proxy 
+ - Bridge (puente)
 
 **Comportamiento**
-	-Comando
-	-Estado
-	-Template (plantilla)
-	-Estrategia
-	-Interpretador
-	-Mediador
-	-Memento
-	-Observador
+ - Comando
+ - Estado
+ - Template (plantilla)
+ - Estrategia
+ - Interpretador
+ - Mediador
+ - Memento
+ - Observador
 
 **Colección**
-	-Flyweight (peso ligero)
-	-Iterador
-	-Visitor 
-	-Composite
+ - Flyweight (peso ligero)
+ - Iterador
+   - Interno
+   - Externo
+ - Visitor 
+ - Composite
 
 **Concurencia**
-	-Consistent lock order
-	-Critical section
-	-Guarded suspension
-	-Read-write lock
+ - Consistent lock order
+ - Critical section
+ - Guarded suspension
+ - Read-write lock
 
