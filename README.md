@@ -4,13 +4,13 @@ This includes class, sequence and use case diagrams.
 
 
 **Creacionales**
-	-Método fábrica
-	-Singleton
-	-Builder
-	-Fábrica abstracta
-	-Prototipo
-		--Deep copy
-		--Shallow copy
+	- Método fábrica
+	- Singleton
+	- Builder
+	- Fábrica abstracta
+	- Prototipo
+		-- Deep copy
+		-- Shallow copy
 
 **Estructurales**
 	-Fachada
