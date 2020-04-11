@@ -4,7 +4,7 @@ This includes class, sequence and use case diagrams.
 
 
 **Creacionales**
-	- Método fábrica
+ - Método fábrica
 	- Singleton
 	- Builder
 	- Fábrica abstracta
